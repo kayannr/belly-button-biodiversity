@@ -6,7 +6,7 @@ https://kayannr.github.io/belly-button-biodiversity/
 An interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 ## Plotly
- ![bar Chart](Belly-Button-Biodiversity/Images/1.PNG)
+ ![bar Chart](Images/1.PNG)
 The following are tasks completed: 
 1.  `samples.json` is read using D3 library
 
@@ -30,7 +30,7 @@ The following are tasks completed:
 
 * Use `otu_labels` for the text values.
 
-![Bubble Chart](Belly-Button-Biodiversity/Images/2.PNG)
+![Bubble Chart](Images/2.PNG)
 
 5. Display the sample metadata, i.e., an individual's demographic information.
 
