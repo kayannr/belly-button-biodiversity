@@ -119,7 +119,7 @@ function buildCharts(sampleID){
 }; 
 
 // ****************************************************   
-//  BONUS: GAUGE CHART - WEEKLY WASHING FREQUENCY
+//  GAUGE CHART - WEEKLY WASHING FREQUENCY
 // ****************************************************  
 function buildGauge (wfreq){
     var data = [
